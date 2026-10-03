@@ -24,12 +24,26 @@
           "type": 2,
           "style": 5,
           "url": "https://vsona.vgen.co/veil-ainsley",
-          "label": "Wiki page"
+          "label": "Full wiki page"
         }
       },
       {
-        "type": 10,
-        "content": "-# Other Aliases/Epithets: L'Anima di Cenere, Rhys"
+        "type": 9,
+        "components": [
+          {
+            "type": 10,
+            "content": "-# Other Aliases/Epithets: L'Anima di Cenere, Rhys"
+          }
+        ],
+        "accessory": {
+          "type": 2,
+          "style": 5,
+          "url": "https://vsona.vgen.co/veil-ainsley",
+          "label": "‎ ",
+          "emoji": {
+            "name": "<:vgen:1517337143486316554>"
+          }
+        }
       },
       {
         "type": 10,
